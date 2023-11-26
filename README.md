@@ -3,7 +3,7 @@
 ## Background ##
 This project was assigned by the EDX Data Analytics Bootcamp program.
 The main aim was to analyze an anonymous city's high school and standardized test data using Pandas library's DataFrames.
-Data were originally saved as csv files, which were imported into Jupyter Notebook. The analysis and final outputs were also carried out in the Notebook.
+Data were originally saved as csv files, which were imported into Jupyter Notebook. The analysis and final outputs were also carried out in the Notebook (saved as an ipynb file named "main").
 
 ## Summary of Results ##
 There were 15 schools and 39,170 students in the dataset. 
